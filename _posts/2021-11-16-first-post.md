@@ -1,5 +1,5 @@
 ---
-title:  "[Jekyll] 블로그 포스팅하는 방법"
+title:  "[Jekyll] 첫 게시글!"
 excerpt: "공부하는 식빵맘 블로그를 통해 md 파일에 마크다운 문법으로 작성하여 Github 원격 저장소에 업로드 해보자. 에디터는 Visual Studio code 사용! 로컬 서버에서 확인도 해보자. "
 
 categories:
@@ -15,7 +15,7 @@ last_modified_at: 2021-11-16
 ---
 
 
-# 첫 게시글! 안뇽하세요
+# 안뇽
 
 ### 드디어 블로그를 개설하게 되었다. <br>
 vscode를 이용하여
