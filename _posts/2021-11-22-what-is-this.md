@@ -13,6 +13,7 @@ toc_sticky: true
 date: 2021-11-18
 last_modified_at: 2021-11-18
 ---
+
 # this에 대해 알아보기
 
 this는 다른 언어와 혼동되기 쉬운 개념이라고 한다해서 여기에 적어놓는다.<br>
