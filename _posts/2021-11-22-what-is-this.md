@@ -46,7 +46,7 @@ JavaScript의 전역객체인 window가 나오게 된다.
   
 
   [javascript bom](https://www.google.co.kr/search?q=javascript+bom&newwindow=1&client=safari&channel=iphone_bm&sxsrf=AOaemvLdw96oEIyRTta5kcTuUc77u8D-uw%3A1637563858331&source=hp&ei=0j2bYdnGEe670PEP8L-oyAY&iflsig=ALs-wAMAAAAAYZtL4hXwh3z8VsTR8NLXJjhx8GGfuDPa&ved=0ahUKEwjZ98fgsKv0AhXuHTQIHfAfCmkQ4dUDCAo&uact=5&oq=javascript+bom&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEIAEMgUIABDLATIFCAAQgAQyBQgAEMsBMgUIABDLATIFCAAQywEyBwgAEAoQywEyBQgAEMsBMgQIABAeMgQIABAeOgQIIxAnOhEILhCABBCxAxCDARDHARDRAzoLCAAQgAQQsQMQgwE6BQguEIAEOg4IABCABBCxAxCDARCLAzoLCAAQgAQQsQMQiwM6BwgjEOoCECc6CAguEIAEELEDOg4ILhCABBCxAxCDARCLAzoICAAQgAQQiwM6CwguEIAEELEDEIsDOggIABCABBCxAzoLCC4QgAQQsQMQgwE6BwgAELEDEEM6BAgAEEM6EAgAEIAEEIcCELEDEIMBEBQ6CggAELEDEIMBEEM6BwgjELECECc6BwgAELEDEAo6CggAELEDEIMBEAo6BAgAEAo6BAgAEA06BwgjELACECc6BwgAELEDEA06CggAEIAEEIcCEBRQAFjKMmCeNGgUcAB4A4ABpAGIAd8gkgEEMS4zMZgBAKABAbABCrgBAg&sclient=gws-wiz)<br>
-  위 주소, google에서 JavaScript의 BOM(Browser Object Model) 에 대해 검색해보면 알 수 있다.
+  위 주소, google에서 JavaScript의 BOM(Browser Object Model) 에 대해 검색해보면 알 수 있다.<br>
   절대 귀찮아서 링크만 달아논거 아님~~
   </div>
 </details>
