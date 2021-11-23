@@ -30,3 +30,12 @@ http://127.0.0.1:4000 주소로 이동하여 확인할 수 있다.
 <br>
 **실시간 반영도 된다!**
 ![image](https://user-images.githubusercontent.com/69746360/141996182-54a537b1-a025-493a-b5f7-dcfe92d7e564.png)
+
+<br>
+'공부하는 식빵맘'을 따라했다. 
+
+<https://ansohxxn.github.io/blog/i-made-my-blog/>
+
+이거는 마크다운 문법
+<https://ansohxxn.github.io/blog/markdown/#링크만-있는-inline-링크>
+
