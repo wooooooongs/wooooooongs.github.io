@@ -1,5 +1,5 @@
 ---
-title:  "this란?"
+title:  "[JS] this란?"
 excerpt: "this에 대해 정리해보자"
 
 categories:
@@ -65,7 +65,7 @@ JavaScript의 전역객체인 window가 나오게 된다.
 <br>
 
 코드를 보면서 설명하는게 빠르겠다.<br>
-객체를 통해 살펴보자면 이렇다.
+bar라는 객체를 통해 살펴보자면 이렇다.
 ```js
 var bar = {
   이름: '떡볶이',
@@ -74,13 +74,17 @@ var bar = {
   }
 }
 ```
+
 '나는함수'안에 this를 로그로 찍는 함수가 있다고 했을 때, 바로 실행을 시켜보면
+
 ```js
 bar.나는함수() // {이름: "떡볶이", 나는함수: function}
 ```
+
 bar를 출력한다.<br>
 아하! 그냥 this를 출력하면 전역변수(window)가 나오지만<br>
-객체 안에서 this를 출력하였기 때문에 bar객체가 출력되는 것이다.<br>
+객체 안에서 this를 출력하였기 때문에 bar객체가 출력되는 것이다.
+
 <br>
 <br>
 
@@ -88,8 +92,9 @@ bar를 출력한다.<br>
 <br>
 
 하지만 우리는 처음 밑줄 친 정의에 의하면 **호출된 방식**에 따라 다르다고 했다.<br>
-진짜 누가 호출했는냐에 따라 지 맴대로 이랬다 저랬다 하는거다.
-<br><br>
+진짜 누가 호출했느냐에 따라 지 맴대로 이랬다 저랬다 하는거다.
+
+<br>
 
 그럼 이제 다른 곳에서 나는함수를 호출해보자.
 ```js
@@ -119,7 +124,7 @@ var 나는함수를_호출 = bar.나는함수; // 나는함수를_호출 안에 
 
 ```
 
-가정 1(addEventListner) 결과
+가정 1(addEventListener) 결과
 <p align="center"><img width="243" alt="가정1" src="https://user-images.githubusercontent.com/69746360/142999376-1cd87ade-f3a6-4ba4-aa61-283df8378422.png"></p>
 <br>
 가정 2(onclick) 결과
