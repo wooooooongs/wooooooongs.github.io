@@ -1,6 +1,6 @@
 ---
 title:  "[GitHub] private repository 생성 시 에러"
-excerpt: ""
+excerpt: "Permission denied 발생"
 
 categories:
   - gitgub
