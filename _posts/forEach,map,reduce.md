@@ -1,4 +1,10 @@
-JavaScript
+## forEach(), map(), redue() 사용하기
+
+forEach: for문 돌리는 거랑 같은 개념
+map: for문을 돌려서 새로운 배열을 만드는 목적. return 필수
+reduce: for문을 돌려서 최종적으로 '무언가'(숫자, 문자, 객체 등)를 만드는 목적. return 필수
+
+--
 
 map()에 대하여
 
