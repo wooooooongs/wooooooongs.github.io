@@ -1,4 +1,4 @@
-## forEach(), map(), redue() 사용하기
+## forEach(), map(), reduce(), filter() 사용하기
 
 forEach: for문 돌리는 거랑 같은 개념
 map: for문을 돌려서 새로운 배열을 만드는 목적. return 필수
